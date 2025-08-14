@@ -14,7 +14,7 @@ Check out the deployed application here:
 ## 📸 Preview
 
 ### LandingPage View
-<img src="Assets/Home.png" alt="HomePreview" width="500" />
+<img src="Civic-issue-reporter-application/Assets/Home.png" alt="HomePreview" width="500" />
 
 ### Admin View
 <img src="Assets/AdminHome.png" alt="HomePreview" width="500" />
