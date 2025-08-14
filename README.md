@@ -17,13 +17,13 @@ Check out the deployed application here:
 <img src="Civic-issue-reporter-application/Assets/Home.png" alt="HomePreview" width="500" />
 
 ### Admin View
-<img src="Assets/AdminHome.png" alt="HomePreview" width="500" />
+<img src="Civic-issue-reporter-application/Assets/AdminHome.png" alt="HomePreview" width="500" />
 
 ### Citizen View
-<img src="Assets/CitizenHome.png" alt="HomePreview" width="500" />
+<img src="Civic-issue-reporter-application/Assets/CitizenHome.png" alt="HomePreview" width="500" />
 
 ### Report an Issue View
-<img src="Assets/ReportIssue.png" alt="HomePreview" width="500" />
+<img src="Civic-issue-reporter-application/Assets/ReportIssue.png" alt="HomePreview" width="500" />
 
 ---
 
